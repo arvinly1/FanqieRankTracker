@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-07",
-  "prev_date": "2026-07-06",
+  "date": "2026-07-08",
+  "prev_date": "2026-07-07",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -8,7 +8,17 @@
       "summary": "近 7 日暂无足够数据判断全站热点。",
       "fallback_summary": "近 7 日暂无足够数据判断全站热点。",
       "hot_genres": [],
-      "hot_types": [],
+      "hot_types": [
+        {
+          "name": "",
+          "score": 30000,
+          "new_count": 20,
+          "dropped_count": 0,
+          "read_count": 3,
+          "read_growth_total": 30000.0,
+          "active_days": 2
+        }
+      ],
       "hot_themes": [
         {
           "name": "修仙",
@@ -33,7 +43,17 @@
       "summary": "近 14 日暂无足够数据判断全站热点。",
       "fallback_summary": "近 14 日暂无足够数据判断全站热点。",
       "hot_genres": [],
-      "hot_types": [],
+      "hot_types": [
+        {
+          "name": "",
+          "score": 30000,
+          "new_count": 20,
+          "dropped_count": 0,
+          "read_count": 3,
+          "read_growth_total": 30000.0,
+          "active_days": 2
+        }
+      ],
       "hot_themes": [
         {
           "name": "修仙",
@@ -58,7 +78,17 @@
       "summary": "近 30 日暂无足够数据判断全站热点。",
       "fallback_summary": "近 30 日暂无足够数据判断全站热点。",
       "hot_genres": [],
-      "hot_types": [],
+      "hot_types": [
+        {
+          "name": "",
+          "score": 30000,
+          "new_count": 20,
+          "dropped_count": 0,
+          "read_count": 3,
+          "read_growth_total": 30000.0,
+          "active_days": 2
+        }
+      ],
       "hot_themes": [
         {
           "name": "修仙",
@@ -83,7 +113,17 @@
       "summary": "全部样本暂无足够数据判断全站热点。",
       "fallback_summary": "全部样本暂无足够数据判断全站热点。",
       "hot_genres": [],
-      "hot_types": [],
+      "hot_types": [
+        {
+          "name": "",
+          "score": 30000,
+          "new_count": 20,
+          "dropped_count": 0,
+          "read_count": 3,
+          "read_growth_total": 30000.0,
+          "active_days": 2
+        }
+      ],
       "hot_themes": [
         {
           "name": "修仙",

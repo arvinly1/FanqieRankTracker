@@ -1,59 +1,8 @@
 {
-  "type": "all",
   "date": "2026-07-08",
-  "prev_date": "2026-07-07",
   "categories": [
     {
       "name": "",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "诸天：从综武世界开始",
-            "change": "+2"
-          },
-          {
-            "title": "当了五十亿年太阳，我修仙了",
-            "change": "+1"
-          },
-          {
-            "title": "西游：圣僧的自我修养",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "洪荒：我不为天帝，苍生何所辜",
-            "change": "-1"
-          },
-          {
-            "title": "天不应",
-            "change": "-1"
-          },
-          {
-            "title": "凡人仙葫",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "宗门独宠小师弟？我连夜提桶跑路",
-            "growth": "+1.2万"
-          },
-          {
-            "title": "西游：圣僧的自我修养",
-            "growth": "+1.0万"
-          },
-          {
-            "title": "我真不想修仙啊！",
-            "growth": "+8000"
-          }
-        ],
-        "summary": "《诸天：从综武世界开始》排名上升+2位；《宗门独宠小师弟？我连夜提桶跑路》阅读量+1.2万。"
-      },
       "books": [
         {
           "title": "同学们选武侠仙侠，我选洪荒世界",
