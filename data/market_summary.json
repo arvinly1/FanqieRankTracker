@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-08",
-  "prev_date": "2026-07-07",
+  "date": "2026-07-09",
+  "prev_date": "2026-07-08",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,12 +11,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 30000,
-          "new_count": 20,
-          "dropped_count": 0,
-          "read_count": 3,
-          "read_growth_total": 30000.0,
-          "active_days": 2
+          "score": 101000,
+          "new_count": 21,
+          "dropped_count": 1,
+          "read_count": 6,
+          "read_growth_total": 101000.0,
+          "active_days": 3
         }
       ],
       "hot_themes": [
@@ -46,12 +46,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 30000,
-          "new_count": 20,
-          "dropped_count": 0,
-          "read_count": 3,
-          "read_growth_total": 30000.0,
-          "active_days": 2
+          "score": 101000,
+          "new_count": 21,
+          "dropped_count": 1,
+          "read_count": 6,
+          "read_growth_total": 101000.0,
+          "active_days": 3
         }
       ],
       "hot_themes": [
@@ -81,12 +81,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 30000,
-          "new_count": 20,
-          "dropped_count": 0,
-          "read_count": 3,
-          "read_growth_total": 30000.0,
-          "active_days": 2
+          "score": 101000,
+          "new_count": 21,
+          "dropped_count": 1,
+          "read_count": 6,
+          "read_growth_total": 101000.0,
+          "active_days": 3
         }
       ],
       "hot_themes": [
@@ -116,12 +116,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 30000,
-          "new_count": 20,
-          "dropped_count": 0,
-          "read_count": 3,
-          "read_growth_total": 30000.0,
-          "active_days": 2
+          "score": 101000,
+          "new_count": 21,
+          "dropped_count": 1,
+          "read_count": 6,
+          "read_growth_total": 101000.0,
+          "active_days": 3
         }
       ],
       "hot_themes": [
