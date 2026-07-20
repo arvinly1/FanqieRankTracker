@@ -1,59 +1,8 @@
 {
-  "type": "all",
   "date": "2026-07-20",
-  "prev_date": "2026-07-19",
   "categories": [
     {
       "name": "",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "长生：仙庭关系户下界摸鱼",
-            "change": "+2"
-          },
-          {
-            "title": "穿越庶长兄：嫡弟竟是仙帝转世！",
-            "change": "+1"
-          },
-          {
-            "title": "天不应",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "我真不想修仙啊！",
-            "change": "-2"
-          },
-          {
-            "title": "当了五十亿年太阳，我修仙了",
-            "change": "-2"
-          },
-          {
-            "title": "聚宝仙盆",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "这！这是谁把杨婵放我府上的？",
-            "growth": "+1.5万"
-          },
-          {
-            "title": "看门的都是陆地神仙，你来退婚？",
-            "growth": "+1.2万"
-          },
-          {
-            "title": "人在合欢宗，开局成为圣女道侣！",
-            "growth": "+1.2万"
-          }
-        ],
-        "summary": "《长生：仙庭关系户下界摸鱼》排名上升+2位；《这！这是谁把杨婵放我府上的？》阅读量+1.5万。"
-      },
       "books": [
         {
           "title": "凡骨",
