@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-20",
-  "prev_date": "2026-07-19",
+  "date": "2026-07-21",
+  "prev_date": "2026-07-20",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,11 +11,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 494000,
-          "new_count": 8,
-          "dropped_count": 8,
+          "score": 483000,
+          "new_count": 5,
+          "dropped_count": 5,
           "read_count": 21,
-          "read_growth_total": 494000.0,
+          "read_growth_total": 483000.0,
           "active_days": 7
         }
       ],
@@ -46,28 +46,28 @@
       "hot_types": [
         {
           "name": "",
-          "score": 870000,
-          "new_count": 34,
+          "score": 907000,
+          "new_count": 14,
           "dropped_count": 14,
-          "read_count": 39,
-          "read_growth_total": 870000.0,
+          "read_count": 42,
+          "read_growth_total": 907000.0,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
-          "name": "修仙",
-          "count": 7,
+          "name": "系统",
+          "count": 5,
           "category_count": 1
         },
         {
-          "name": "系统",
-          "count": 6,
+          "name": "修仙",
+          "count": 4,
           "category_count": 1
         },
         {
           "name": "重生",
-          "count": 2,
+          "count": 1,
           "category_count": 1
         }
       ]
@@ -81,12 +81,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 870000,
+          "score": 907000,
           "new_count": 34,
           "dropped_count": 14,
-          "read_count": 39,
-          "read_growth_total": 870000.0,
-          "active_days": 14
+          "read_count": 42,
+          "read_growth_total": 907000.0,
+          "active_days": 15
         }
       ],
       "hot_themes": [
@@ -116,12 +116,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 870000,
+          "score": 907000,
           "new_count": 34,
           "dropped_count": 14,
-          "read_count": 39,
-          "read_growth_total": 870000.0,
-          "active_days": 14
+          "read_count": 42,
+          "read_growth_total": 907000.0,
+          "active_days": 15
         }
       ],
       "hot_themes": [
