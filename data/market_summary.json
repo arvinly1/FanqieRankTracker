@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-25",
-  "prev_date": "2026-07-24",
+  "date": "2026-07-26",
+  "prev_date": "2026-07-25",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,27 +11,32 @@
       "hot_types": [
         {
           "name": "",
-          "score": 302000,
-          "new_count": 6,
-          "dropped_count": 6,
+          "score": 299000,
+          "new_count": 7,
+          "dropped_count": 7,
           "read_count": 21,
-          "read_growth_total": 302000.0,
+          "read_growth_total": 299000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 3,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
-          "count": 1,
+          "count": 4,
           "category_count": 1
         },
         {
           "name": "系统",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "空间",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "青梅竹马",
           "count": 1,
           "category_count": 1
         }
@@ -46,28 +51,38 @@
       "hot_types": [
         {
           "name": "",
-          "score": 822000,
+          "score": 829000,
           "new_count": 17,
           "dropped_count": 17,
           "read_count": 42,
-          "read_growth_total": 822000.0,
+          "read_growth_total": 829000.0,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 5,
+          "count": 6,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 3,
+          "count": 2,
           "category_count": 1
         },
         {
           "name": "重生",
-          "count": 2,
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "空间",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "青梅竹马",
+          "count": 1,
           "category_count": 1
         }
       ]
@@ -81,18 +96,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1076000,
-          "new_count": 40,
-          "dropped_count": 20,
-          "read_count": 54,
-          "read_growth_total": 1076000.0,
-          "active_days": 19
+          "score": 1130000,
+          "new_count": 41,
+          "dropped_count": 21,
+          "read_count": 57,
+          "read_growth_total": 1130000.0,
+          "active_days": 20
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 10,
+          "count": 11,
           "category_count": 1
         },
         {
@@ -102,7 +117,17 @@
         },
         {
           "name": "重生",
-          "count": 3,
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "空间",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "青梅竹马",
+          "count": 1,
           "category_count": 1
         }
       ]
@@ -116,18 +141,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1076000,
-          "new_count": 40,
-          "dropped_count": 20,
-          "read_count": 54,
-          "read_growth_total": 1076000.0,
-          "active_days": 19
+          "score": 1130000,
+          "new_count": 41,
+          "dropped_count": 21,
+          "read_count": 57,
+          "read_growth_total": 1130000.0,
+          "active_days": 20
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 10,
+          "count": 11,
           "category_count": 1
         },
         {
@@ -137,7 +162,17 @@
         },
         {
           "name": "重生",
-          "count": 3,
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "空间",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "青梅竹马",
+          "count": 1,
           "category_count": 1
         }
       ]
