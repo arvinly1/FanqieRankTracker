@@ -1,58 +1,8 @@
 {
   "date": "2026-07-28",
-  "prev_date": "2026-07-27",
   "categories": [
     {
       "name": "",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "百岁修仙：从觉醒天灵根开始",
-            "change": "+2"
-          },
-          {
-            "title": "帝域",
-            "change": "+1"
-          },
-          {
-            "title": "人在合欢宗，开局成为圣女道侣！",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "别人修仙我闲逛，游历三界终长生",
-            "change": "-2"
-          },
-          {
-            "title": "看门的都是陆地神仙，你来退婚？",
-            "change": "-1"
-          },
-          {
-            "title": "雷灵根修仙，我有十倍复制空间",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "邪皇降世，从废物皇子开始",
-            "growth": "+1.5万"
-          },
-          {
-            "title": "说好同学聚会，群穿仙侠什么鬼",
-            "growth": "+1.2万"
-          },
-          {
-            "title": "凡骨",
-            "growth": "+8000"
-          }
-        ],
-        "summary": "《百岁修仙：从觉醒天灵根开始》排名上升+2位；《邪皇降世，从废物皇子开始》阅读量+1.5万。"
-      },
       "books": [
         {
           "title": "凡骨",
