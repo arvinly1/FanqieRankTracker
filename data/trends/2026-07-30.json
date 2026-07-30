@@ -1,0 +1,55 @@
+{
+  "date": "2026-07-30",
+  "prev_date": "2026-07-29",
+  "trends": {
+    "": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "说好同学聚会，群穿仙侠什么鬼",
+          "change": "+2"
+        },
+        {
+          "title": "星路仙踪",
+          "change": "+1"
+        },
+        {
+          "title": "我真不想修仙啊！",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "别人修仙我闲逛，游历三界终长生",
+          "change": "-2"
+        },
+        {
+          "title": "邪皇降世，从废物皇子开始",
+          "change": "-1"
+        },
+        {
+          "title": "看门的都是陆地神仙，你来退婚？",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "星路仙踪",
+          "growth": "+1.9万"
+        },
+        {
+          "title": "说好同学聚会，群穿仙侠什么鬼",
+          "growth": "+9000"
+        },
+        {
+          "title": "帝域",
+          "growth": "+7000"
+        }
+      ],
+      "summary": "《说好同学聚会，群穿仙侠什么鬼》排名上升+2位；《星路仙踪》阅读量+1.9万。"
+    }
+  }
+}
