@@ -1,54 +1,8 @@
 {
   "date": "2026-07-31",
-  "prev_date": "2026-07-30",
   "categories": [
     {
       "name": "",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "聚宝仙盆",
-            "change": "+2"
-          },
-          {
-            "title": "同学们选武侠仙侠，我选洪荒世界",
-            "change": "+1"
-          },
-          {
-            "title": "说好同学聚会，群穿仙侠什么鬼",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "这！这是谁把杨婵放我府上的？",
-            "change": "-3"
-          },
-          {
-            "title": "我真不想修仙啊！",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "星路仙踪",
-            "growth": "+1.5万"
-          },
-          {
-            "title": "我真不想修仙啊！",
-            "growth": "+1.5万"
-          },
-          {
-            "title": "说好同学聚会，群穿仙侠什么鬼",
-            "growth": "+1.0万"
-          }
-        ],
-        "summary": "《聚宝仙盆》排名上升+2位；《星路仙踪》阅读量+1.5万。"
-      },
       "books": [
         {
           "title": "凡骨",
