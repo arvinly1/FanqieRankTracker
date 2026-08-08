@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-07",
-  "prev_date": "2026-08-06",
+  "date": "2026-08-08",
+  "prev_date": "2026-08-07",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,11 +11,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 323000,
-          "new_count": 8,
-          "dropped_count": 8,
+          "score": 273000,
+          "new_count": 7,
+          "dropped_count": 7,
           "read_count": 18,
-          "read_growth_total": 323000.0,
+          "read_growth_total": 273000.0,
           "active_days": 7
         }
       ],
@@ -29,11 +29,6 @@
           "name": "系统",
           "count": 3,
           "category_count": 1
-        },
-        {
-          "name": "空间",
-          "count": 1,
-          "category_count": 1
         }
       ]
     },
@@ -46,18 +41,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 589000,
-          "new_count": 13,
-          "dropped_count": 13,
+          "score": 594000,
+          "new_count": 12,
+          "dropped_count": 12,
           "read_count": 39,
-          "read_growth_total": 589000.0,
+          "read_growth_total": 594000.0,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 9,
+          "count": 8,
           "category_count": 1
         },
         {
@@ -86,11 +81,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1604000,
-          "new_count": 32,
-          "dropped_count": 32,
+          "score": 1569000,
+          "new_count": 31,
+          "dropped_count": 31,
           "read_count": 87,
-          "read_growth_total": 1604000.0,
+          "read_growth_total": 1569000.0,
           "active_days": 30
         }
       ],
@@ -131,12 +126,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1634000,
+          "score": 1670000,
           "new_count": 52,
           "dropped_count": 32,
-          "read_count": 90,
-          "read_growth_total": 1634000.0,
-          "active_days": 32
+          "read_count": 93,
+          "read_growth_total": 1670000.0,
+          "active_days": 33
         }
       ],
       "hot_themes": [
