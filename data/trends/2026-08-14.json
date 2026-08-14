@@ -1,0 +1,55 @@
+{
+  "date": "2026-08-14",
+  "prev_date": "2026-08-13",
+  "trends": {
+    "": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "九霄通天塔",
+          "change": "+2"
+        },
+        {
+          "title": "说好同学聚会，群穿仙侠什么鬼",
+          "change": "+1"
+        },
+        {
+          "title": "西游：圣僧的自我修养",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "从金丹仙族开始的老祖之路！",
+          "change": "-2"
+        },
+        {
+          "title": "这！这是谁把杨婵放我府上的？",
+          "change": "-1"
+        },
+        {
+          "title": "长生：仙庭关系户下界摸鱼",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "凡骨",
+          "growth": "+1.5万"
+        },
+        {
+          "title": "符道之祖",
+          "growth": "+6000"
+        },
+        {
+          "title": "凡人修仙，捡个仙子做老婆",
+          "growth": "+6000"
+        }
+      ],
+      "summary": "《九霄通天塔》排名上升+2位；《凡骨》阅读量+1.5万。"
+    }
+  }
+}
