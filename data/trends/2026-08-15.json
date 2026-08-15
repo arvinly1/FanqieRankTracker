@@ -1,0 +1,55 @@
+{
+  "date": "2026-08-15",
+  "prev_date": "2026-08-14",
+  "trends": {
+    "": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "西游：圣僧的自我修养",
+          "change": "+2"
+        },
+        {
+          "title": "聚宝仙盆",
+          "change": "+1"
+        },
+        {
+          "title": "穿越庶长兄：嫡弟竟是仙帝转世！",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "九霄通天塔",
+          "change": "-4"
+        },
+        {
+          "title": "我真不想修仙啊！",
+          "change": "-2"
+        },
+        {
+          "title": "这！这是谁把杨婵放我府上的？",
+          "change": "-2"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "凡人修仙，捡个仙子做老婆",
+          "growth": "+1.6万"
+        },
+        {
+          "title": "凡骨",
+          "growth": "+1.2万"
+        },
+        {
+          "title": "星路仙踪",
+          "growth": "+8000"
+        }
+      ],
+      "summary": "《西游：圣僧的自我修养》排名上升+2位；《凡人修仙，捡个仙子做老婆》阅读量+1.6万。"
+    }
+  }
+}
