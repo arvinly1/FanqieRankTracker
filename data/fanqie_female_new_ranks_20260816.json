@@ -1,59 +1,8 @@
 {
-  "type": "all",
   "date": "2026-08-16",
-  "prev_date": "2026-08-15",
   "categories": [
     {
       "name": "",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "星路仙踪",
-            "change": "+2"
-          },
-          {
-            "title": "凡人修仙，捡个仙子做老婆",
-            "change": "+1"
-          },
-          {
-            "title": "长生：仙庭关系户下界摸鱼",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "穿越庶长兄：嫡弟竟是仙帝转世！",
-            "change": "-1"
-          },
-          {
-            "title": "我真不想修仙啊！",
-            "change": "-1"
-          },
-          {
-            "title": "符道之祖",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "凡人修仙，捡个仙子做老婆",
-            "growth": "+3.0万"
-          },
-          {
-            "title": "凡骨",
-            "growth": "+9000"
-          },
-          {
-            "title": "西游：圣僧的自我修养",
-            "growth": "+9000"
-          }
-        ],
-        "summary": "《星路仙踪》排名上升+2位；《凡人修仙，捡个仙子做老婆》阅读量+3.0万。"
-      },
       "books": [
         {
           "title": "凡骨",
