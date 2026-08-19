@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-17",
-  "prev_date": "2026-08-16",
+  "date": "2026-08-19",
+  "prev_date": "2026-08-17",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,15 +11,25 @@
       "hot_types": [
         {
           "name": "",
-          "score": 271000,
-          "new_count": 5,
-          "dropped_count": 5,
+          "score": 436000,
+          "new_count": 4,
+          "dropped_count": 4,
           "read_count": 21,
-          "read_growth_total": 271000.0,
+          "read_growth_total": 436000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
+        {
+          "name": "系统",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "空间",
+          "count": 2,
+          "category_count": 1
+        },
         {
           "name": "修仙",
           "count": 2,
@@ -27,16 +37,6 @@
         },
         {
           "name": "重生",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "系统",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "团宠",
           "count": 1,
           "category_count": 1
         }
@@ -51,22 +51,27 @@
       "hot_types": [
         {
           "name": "",
-          "score": 492000,
+          "score": 661000,
           "new_count": 11,
           "dropped_count": 11,
           "read_count": 42,
-          "read_growth_total": 492000.0,
+          "read_growth_total": 661000.0,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 4,
+          "count": 7,
           "category_count": 1
         },
         {
           "name": "系统",
+          "count": 6,
+          "category_count": 1
+        },
+        {
+          "name": "空间",
           "count": 3,
           "category_count": 1
         },
@@ -91,28 +96,28 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1219000,
-          "new_count": 26,
-          "dropped_count": 26,
+          "score": 1363000,
+          "new_count": 27,
+          "dropped_count": 27,
           "read_count": 87,
-          "read_growth_total": 1219000.0,
+          "read_growth_total": 1363000.0,
           "active_days": 30
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 13,
+          "count": 16,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 4,
+          "count": 7,
           "category_count": 1
         },
         {
           "name": "空间",
-          "count": 2,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -141,33 +146,33 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1993000,
-          "new_count": 60,
-          "dropped_count": 40,
-          "read_count": 120,
-          "read_growth_total": 1993000.0,
-          "active_days": 42
+          "score": 2194000,
+          "new_count": 61,
+          "dropped_count": 41,
+          "read_count": 123,
+          "read_growth_total": 2194000.0,
+          "active_days": 43
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 20,
+          "count": 23,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 7,
+          "count": 10,
+          "category_count": 1
+        },
+        {
+          "name": "空间",
+          "count": 5,
           "category_count": 1
         },
         {
           "name": "重生",
           "count": 3,
-          "category_count": 1
-        },
-        {
-          "name": "空间",
-          "count": 2,
           "category_count": 1
         },
         {
