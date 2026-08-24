@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-23",
-  "prev_date": "2026-08-22",
+  "date": "2026-08-24",
+  "prev_date": "2026-08-23",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,18 +11,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 619000,
-          "new_count": 8,
+          "score": 626000,
+          "new_count": 9,
           "dropped_count": 9,
           "read_count": 21,
-          "read_growth_total": 619000.0,
+          "read_growth_total": 626000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
           "name": "重生",
-          "count": 1,
+          "count": 2,
           "category_count": 1
         },
         {
@@ -41,18 +41,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 843000,
+          "score": 874000,
           "new_count": 15,
-          "dropped_count": 16,
+          "dropped_count": 15,
           "read_count": 42,
-          "read_growth_total": 843000.0,
+          "read_growth_total": 874000.0,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "重生",
-          "count": 2,
+          "count": 3,
           "category_count": 1
         },
         {
@@ -76,23 +76,23 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1506000,
-          "new_count": 30,
-          "dropped_count": 31,
+          "score": 1523000,
+          "new_count": 29,
+          "dropped_count": 29,
           "read_count": 87,
-          "read_growth_total": 1506000.0,
+          "read_growth_total": 1523000.0,
           "active_days": 30
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 12,
+          "count": 11,
           "category_count": 1
         },
         {
           "name": "重生",
-          "count": 2,
+          "count": 3,
           "category_count": 1
         },
         {
@@ -126,12 +126,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 2513000,
-          "new_count": 67,
+          "score": 2568000,
+          "new_count": 68,
           "dropped_count": 48,
-          "read_count": 135,
-          "read_growth_total": 2513000.0,
-          "active_days": 47
+          "read_count": 138,
+          "read_growth_total": 2568000.0,
+          "active_days": 48
         }
       ],
       "hot_themes": [
@@ -142,7 +142,7 @@
         },
         {
           "name": "重生",
-          "count": 3,
+          "count": 4,
           "category_count": 1
         },
         {
