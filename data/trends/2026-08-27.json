@@ -1,0 +1,55 @@
+{
+  "date": "2026-08-27",
+  "prev_date": "2026-08-26",
+  "trends": {
+    "": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "仙凡分界",
+          "change": "+2"
+        },
+        {
+          "title": "长生：仙庭关系户下界摸鱼",
+          "change": "+2"
+        },
+        {
+          "title": "洪荒：三清小弟，开局给鸿钧搅局",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "星路仙踪",
+          "change": "-2"
+        },
+        {
+          "title": "西游：圣僧的自我修养",
+          "change": "-2"
+        },
+        {
+          "title": "重生后无敌，我开始养成女帝",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "我只想砍死各位，或者被各位砍死",
+          "growth": "+1.3万"
+        },
+        {
+          "title": "洪荒：三清小弟，开局给鸿钧搅局",
+          "growth": "+1.2万"
+        },
+        {
+          "title": "仙凡分界",
+          "growth": "+1.0万"
+        }
+      ],
+      "summary": "《仙凡分界》排名上升+2位；《我只想砍死各位，或者被各位砍死》阅读量+1.3万。"
+    }
+  }
+}
