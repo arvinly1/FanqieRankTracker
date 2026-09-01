@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-31",
-  "prev_date": "2026-08-30",
+  "date": "2026-09-01",
+  "prev_date": "2026-08-31",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,17 +11,22 @@
       "hot_types": [
         {
           "name": "",
-          "score": 350000,
+          "score": 341000,
           "new_count": 2,
-          "dropped_count": 1,
+          "dropped_count": 3,
           "read_count": 21,
-          "read_growth_total": 350000.0,
+          "read_growth_total": 341000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
-          "name": "重生",
+          "name": "系统",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "修仙",
           "count": 1,
           "category_count": 1
         }
@@ -36,11 +41,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 969000,
-          "new_count": 10,
-          "dropped_count": 10,
+          "score": 967000,
+          "new_count": 11,
+          "dropped_count": 12,
           "read_count": 42,
-          "read_growth_total": 969000.0,
+          "read_growth_total": 967000.0,
           "active_days": 14
         }
       ],
@@ -52,6 +57,11 @@
         },
         {
           "name": "修仙",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "系统",
           "count": 1,
           "category_count": 1
         }
@@ -66,11 +76,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1592000,
-          "new_count": 25,
-          "dropped_count": 25,
+          "score": 1598000,
+          "new_count": 26,
+          "dropped_count": 27,
           "read_count": 87,
-          "read_growth_total": 1592000.0,
+          "read_growth_total": 1598000.0,
           "active_days": 30
         }
       ],
@@ -111,27 +121,27 @@
       "hot_types": [
         {
           "name": "",
-          "score": 2863000,
-          "new_count": 69,
-          "dropped_count": 49,
-          "read_count": 156,
-          "read_growth_total": 2863000.0,
-          "active_days": 54
+          "score": 2909000,
+          "new_count": 70,
+          "dropped_count": 51,
+          "read_count": 159,
+          "read_growth_total": 2909000.0,
+          "active_days": 55
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 17,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
-          "count": 3,
+          "count": 19,
           "category_count": 1
         },
         {
           "name": "系统",
+          "count": 5,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
           "count": 3,
           "category_count": 1
         },
