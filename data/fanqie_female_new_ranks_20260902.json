@@ -1,57 +1,8 @@
 {
-  "type": "all",
   "date": "2026-09-02",
-  "prev_date": "2026-09-01",
   "categories": [
     {
       "name": "",
-      "trend": {
-        "new_count": 1,
-        "dropped_count": 0,
-        "new_books": [
-          "符道之祖"
-        ],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "仙凡分界",
-            "change": "+2"
-          },
-          {
-            "title": "聚宝仙盆",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "带嫂子修仙记",
-            "change": "-3"
-          },
-          {
-            "title": "同学们选武侠仙侠，我选洪荒世界",
-            "change": "-1"
-          },
-          {
-            "title": "穿越庶长兄：嫡弟竟是仙帝转世！",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "西游：圣僧的自我修养",
-            "growth": "+2.3万"
-          },
-          {
-            "title": "同学们选武侠仙侠，我选洪荒世界",
-            "growth": "+1.1万"
-          },
-          {
-            "title": "从金丹仙族开始的老祖之路！",
-            "growth": "+1.0万"
-          }
-        ],
-        "summary": "新增1本上榜；《仙凡分界》排名上升+2位；《西游：圣僧的自我修养》阅读量+2.3万。"
-      },
       "books": [
         {
           "title": "凡骨",
