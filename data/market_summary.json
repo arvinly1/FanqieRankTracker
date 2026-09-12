@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-11",
-  "prev_date": "2026-09-10",
+  "date": "2026-09-12",
+  "prev_date": "2026-09-11",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,23 +11,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 190000,
-          "new_count": 10,
-          "dropped_count": 10,
+          "score": 194000,
+          "new_count": 8,
+          "dropped_count": 8,
           "read_count": 21,
-          "read_growth_total": 190000.0,
+          "read_growth_total": 194000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 5,
-          "category_count": 1
-        },
-        {
-          "name": "种田",
-          "count": 2,
+          "count": 3,
           "category_count": 1
         },
         {
@@ -37,6 +32,11 @@
         },
         {
           "name": "系统",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "种田",
           "count": 1,
           "category_count": 1
         }
@@ -51,11 +51,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 507000,
+          "score": 449000,
           "new_count": 13,
           "dropped_count": 13,
           "read_count": 42,
-          "read_growth_total": 507000.0,
+          "read_growth_total": 449000.0,
           "active_days": 14
         }
       ],
@@ -91,23 +91,23 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1484000,
-          "new_count": 27,
-          "dropped_count": 27,
+          "score": 1473000,
+          "new_count": 25,
+          "dropped_count": 25,
           "read_count": 90,
-          "read_growth_total": 1484000.0,
+          "read_growth_total": 1473000.0,
           "active_days": 30
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 10,
+          "count": 8,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 5,
+          "count": 4,
           "category_count": 1
         },
         {
@@ -131,12 +131,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 3206000,
+          "score": 3231000,
           "new_count": 82,
           "dropped_count": 62,
-          "read_count": 189,
-          "read_growth_total": 3206000.0,
-          "active_days": 65
+          "read_count": 192,
+          "read_growth_total": 3231000.0,
+          "active_days": 66
         }
       ],
       "hot_themes": [

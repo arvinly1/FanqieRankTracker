@@ -1,59 +1,8 @@
 {
-  "type": "all",
   "date": "2026-09-12",
-  "prev_date": "2026-09-11",
   "categories": [
     {
       "name": "",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "西游：苟在猴哥体内满天神佛慌了",
-            "change": "+2"
-          },
-          {
-            "title": "修仙：原来金手指全靠抢啊",
-            "change": "+1"
-          },
-          {
-            "title": "杂灵根一样可以修仙",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "符道之祖",
-            "change": "-1"
-          },
-          {
-            "title": "长生：仙庭关系户下界摸鱼",
-            "change": "-1"
-          },
-          {
-            "title": "凡人仙葫",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "西游：苟在猴哥体内满天神佛慌了",
-            "growth": "+9000"
-          },
-          {
-            "title": "修仙：原来金手指全靠抢啊",
-            "growth": "+8000"
-          },
-          {
-            "title": "杂灵根一样可以修仙",
-            "growth": "+8000"
-          }
-        ],
-        "summary": "《西游：苟在猴哥体内满天神佛慌了》排名上升+2位；《西游：苟在猴哥体内满天神佛慌了》阅读量+9000。"
-      },
       "books": [
         {
           "title": "凡骨",
