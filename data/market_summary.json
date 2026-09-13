@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-12",
-  "prev_date": "2026-09-11",
+  "date": "2026-09-13",
+  "prev_date": "2026-09-12",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,11 +11,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 194000,
-          "new_count": 8,
-          "dropped_count": 8,
+          "score": 274000,
+          "new_count": 6,
+          "dropped_count": 6,
           "read_count": 21,
-          "read_growth_total": 194000.0,
+          "read_growth_total": 274000.0,
           "active_days": 7
         }
       ],
@@ -27,11 +27,6 @@
         },
         {
           "name": "重生",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "系统",
           "count": 1,
           "category_count": 1
         },
@@ -51,11 +46,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 449000,
+          "score": 511000,
           "new_count": 13,
           "dropped_count": 13,
           "read_count": 42,
-          "read_growth_total": 449000.0,
+          "read_growth_total": 511000.0,
           "active_days": 14
         }
       ],
@@ -91,11 +86,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1473000,
-          "new_count": 25,
-          "dropped_count": 25,
+          "score": 1540000,
+          "new_count": 24,
+          "dropped_count": 24,
           "read_count": 90,
-          "read_growth_total": 1473000.0,
+          "read_growth_total": 1540000.0,
           "active_days": 30
         }
       ],
@@ -131,12 +126,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 3231000,
+          "score": 3339000,
           "new_count": 82,
           "dropped_count": 62,
-          "read_count": 192,
-          "read_growth_total": 3231000.0,
-          "active_days": 66
+          "read_count": 195,
+          "read_growth_total": 3339000.0,
+          "active_days": 67
         }
       ],
       "hot_themes": [
