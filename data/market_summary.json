@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-18",
-  "prev_date": "2026-09-17",
+  "date": "2026-09-19",
+  "prev_date": "2026-09-18",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,11 +11,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 381000,
+          "score": 388000,
           "new_count": 5,
           "dropped_count": 5,
           "read_count": 21,
-          "read_growth_total": 381000.0,
+          "read_growth_total": 388000.0,
           "active_days": 7
         }
       ],
@@ -41,18 +41,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 571000,
-          "new_count": 15,
-          "dropped_count": 15,
+          "score": 582000,
+          "new_count": 13,
+          "dropped_count": 13,
           "read_count": 42,
-          "read_growth_total": 571000.0,
+          "read_growth_total": 582000.0,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 9,
+          "count": 7,
           "category_count": 1
         },
         {
@@ -76,11 +76,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1594000,
-          "new_count": 27,
-          "dropped_count": 27,
+          "score": 1425000,
+          "new_count": 26,
+          "dropped_count": 26,
           "read_count": 90,
-          "read_growth_total": 1594000.0,
+          "read_growth_total": 1425000.0,
           "active_days": 30
         }
       ],
@@ -111,12 +111,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 3587000,
+          "score": 3619000,
           "new_count": 87,
           "dropped_count": 67,
-          "read_count": 210,
-          "read_growth_total": 3587000.0,
-          "active_days": 72
+          "read_count": 213,
+          "read_growth_total": 3619000.0,
+          "active_days": 73
         }
       ],
       "hot_themes": [
