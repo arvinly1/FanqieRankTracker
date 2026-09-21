@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-20",
-  "prev_date": "2026-09-19",
+  "date": "2026-09-21",
+  "prev_date": "2026-09-20",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,11 +11,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 309000,
-          "new_count": 5,
+          "score": 250000,
+          "new_count": 6,
           "dropped_count": 6,
           "read_count": 21,
-          "read_growth_total": 309000.0,
+          "read_growth_total": 250000.0,
           "active_days": 7
         }
       ],
@@ -41,11 +41,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 583000,
+          "score": 580000,
           "new_count": 11,
-          "dropped_count": 12,
+          "dropped_count": 11,
           "read_count": 42,
-          "read_growth_total": 583000.0,
+          "read_growth_total": 580000.0,
           "active_days": 14
         }
       ],
@@ -71,11 +71,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1362000,
+          "score": 1294000,
           "new_count": 25,
-          "dropped_count": 26,
+          "dropped_count": 25,
           "read_count": 90,
-          "read_growth_total": 1362000.0,
+          "read_growth_total": 1294000.0,
           "active_days": 30
         }
       ],
@@ -106,12 +106,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 3648000,
-          "new_count": 87,
+          "score": 3672000,
+          "new_count": 88,
           "dropped_count": 68,
-          "read_count": 216,
-          "read_growth_total": 3648000.0,
-          "active_days": 74
+          "read_count": 219,
+          "read_growth_total": 3672000.0,
+          "active_days": 75
         }
       ],
       "hot_themes": [

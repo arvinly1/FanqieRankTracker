@@ -1,60 +1,8 @@
 {
   "date": "2026-09-21",
-  "prev_date": "2026-09-20",
   "categories": [
     {
       "name": "",
-      "trend": {
-        "new_count": 1,
-        "dropped_count": 0,
-        "new_books": [
-          "西游：圣僧的自我修养"
-        ],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "我在仙界开赌场",
-            "change": "+5"
-          },
-          {
-            "title": "从金丹仙族开始的老祖之路！",
-            "change": "+1"
-          },
-          {
-            "title": "凡人修仙：我的身体状态每日刷新",
-            "change": "+1"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "修仙：原来金手指全靠抢啊",
-            "change": "-5"
-          },
-          {
-            "title": "重生后无敌，我开始养成女帝",
-            "change": "-2"
-          },
-          {
-            "title": "凡骨",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "我在仙界开赌场",
-            "growth": "+1.3万"
-          },
-          {
-            "title": "西游：苟在猴哥体内满天神佛慌了",
-            "growth": "+6000"
-          },
-          {
-            "title": "从金丹仙族开始的老祖之路！",
-            "growth": "+5000"
-          }
-        ],
-        "summary": "新增1本上榜；《我在仙界开赌场》排名上升+5位；《我在仙界开赌场》阅读量+1.3万。"
-      },
       "books": [
         {
           "title": "从金丹仙族开始的老祖之路！",
