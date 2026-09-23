@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-22",
-  "prev_date": "2026-09-21",
+  "date": "2026-09-23",
+  "prev_date": "2026-09-22",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,11 +11,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 226000,
+          "score": 202000,
           "new_count": 6,
           "dropped_count": 5,
           "read_count": 21,
-          "read_growth_total": 226000.0,
+          "read_growth_total": 202000.0,
           "active_days": 7
         }
       ],
@@ -26,12 +26,27 @@
           "category_count": 1
         },
         {
+          "name": "种田",
+          "count": 2,
+          "category_count": 1
+        },
+        {
           "name": "重生",
           "count": 1,
           "category_count": 1
         },
         {
-          "name": "种田",
+          "name": "系统",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "空间",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "青梅竹马",
           "count": 1,
           "category_count": 1
         }
@@ -46,18 +61,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 585000,
-          "new_count": 10,
-          "dropped_count": 10,
+          "score": 588000,
+          "new_count": 11,
+          "dropped_count": 11,
           "read_count": 42,
-          "read_growth_total": 585000.0,
+          "read_growth_total": 588000.0,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 6,
+          "count": 7,
           "category_count": 1
         },
         {
@@ -67,6 +82,21 @@
         },
         {
           "name": "种田",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "系统",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "空间",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "青梅竹马",
           "count": 1,
           "category_count": 1
         }
@@ -81,23 +111,23 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1243000,
+          "score": 1216000,
           "new_count": 23,
-          "dropped_count": 23,
+          "dropped_count": 22,
           "read_count": 90,
-          "read_growth_total": 1243000.0,
+          "read_growth_total": 1216000.0,
           "active_days": 30
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 12,
+          "count": 13,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 4,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -107,6 +137,16 @@
         },
         {
           "name": "种田",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "空间",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "青梅竹马",
           "count": 1,
           "category_count": 1
         }
@@ -121,23 +161,23 @@
       "hot_types": [
         {
           "name": "",
-          "score": 3701000,
-          "new_count": 89,
-          "dropped_count": 69,
-          "read_count": 222,
-          "read_growth_total": 3701000.0,
-          "active_days": 76
+          "score": 3729000,
+          "new_count": 90,
+          "dropped_count": 70,
+          "read_count": 225,
+          "read_growth_total": 3729000.0,
+          "active_days": 77
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 30,
+          "count": 31,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 11,
+          "count": 12,
           "category_count": 1
         },
         {
@@ -147,16 +187,21 @@
         },
         {
           "name": "空间",
-          "count": 2,
+          "count": 3,
           "category_count": 1
         },
         {
           "name": "种田",
-          "count": 1,
+          "count": 2,
           "category_count": 1
         },
         {
           "name": "星际",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "青梅竹马",
           "count": 1,
           "category_count": 1
         }
