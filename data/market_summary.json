@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-23",
-  "prev_date": "2026-09-22",
+  "date": "2026-09-24",
+  "prev_date": "2026-09-23",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,28 +11,23 @@
       "hot_types": [
         {
           "name": "",
-          "score": 202000,
-          "new_count": 6,
-          "dropped_count": 5,
+          "score": 179000,
+          "new_count": 4,
+          "dropped_count": 3,
           "read_count": 21,
-          "read_growth_total": 202000.0,
+          "read_growth_total": 179000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 4,
+          "count": 3,
           "category_count": 1
         },
         {
           "name": "种田",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
-          "count": 1,
           "category_count": 1
         },
         {
@@ -61,11 +56,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 588000,
-          "new_count": 11,
-          "dropped_count": 11,
+          "score": 573000,
+          "new_count": 10,
+          "dropped_count": 9,
           "read_count": 42,
-          "read_growth_total": 588000.0,
+          "read_growth_total": 573000.0,
           "active_days": 14
         }
       ],
@@ -111,11 +106,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1216000,
-          "new_count": 23,
+          "score": 1179000,
+          "new_count": 22,
           "dropped_count": 22,
           "read_count": 90,
-          "read_growth_total": 1216000.0,
+          "read_growth_total": 1179000.0,
           "active_days": 30
         }
       ],
@@ -132,7 +127,7 @@
         },
         {
           "name": "重生",
-          "count": 3,
+          "count": 2,
           "category_count": 1
         },
         {
@@ -161,12 +156,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 3729000,
+          "score": 3747000,
           "new_count": 90,
           "dropped_count": 70,
-          "read_count": 225,
-          "read_growth_total": 3729000.0,
-          "active_days": 77
+          "read_count": 228,
+          "read_growth_total": 3747000.0,
+          "active_days": 78
         }
       ],
       "hot_themes": [
