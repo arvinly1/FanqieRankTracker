@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-01",
-  "prev_date": "2026-09-30",
+  "date": "2026-10-02",
+  "prev_date": "2026-10-01",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,18 +11,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 207000,
-          "new_count": 6,
-          "dropped_count": 6,
+          "score": 218000,
+          "new_count": 7,
+          "dropped_count": 7,
           "read_count": 21,
-          "read_growth_total": 207000.0,
+          "read_growth_total": 218000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 3,
+          "count": 4,
           "category_count": 1
         },
         {
@@ -32,16 +32,6 @@
         },
         {
           "name": "种田",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "空间",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "青梅竹马",
           "count": 1,
           "category_count": 1
         }
@@ -56,28 +46,28 @@
       "hot_types": [
         {
           "name": "",
-          "score": 433000,
-          "new_count": 12,
-          "dropped_count": 11,
+          "score": 420000,
+          "new_count": 13,
+          "dropped_count": 12,
           "read_count": 42,
-          "read_growth_total": 433000.0,
+          "read_growth_total": 420000.0,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 7,
+          "count": 8,
+          "category_count": 1
+        },
+        {
+          "name": "系统",
+          "count": 3,
           "category_count": 1
         },
         {
           "name": "种田",
           "count": 3,
-          "category_count": 1
-        },
-        {
-          "name": "系统",
-          "count": 2,
           "category_count": 1
         },
         {
@@ -106,18 +96,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1080000,
-          "new_count": 26,
-          "dropped_count": 26,
+          "score": 1084000,
+          "new_count": 28,
+          "dropped_count": 28,
           "read_count": 90,
-          "read_growth_total": 1080000.0,
+          "read_growth_total": 1084000.0,
           "active_days": 30
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 15,
+          "count": 16,
           "category_count": 1
         },
         {
@@ -156,23 +146,23 @@
       "hot_types": [
         {
           "name": "",
-          "score": 3908000,
-          "new_count": 95,
-          "dropped_count": 75,
-          "read_count": 243,
-          "read_growth_total": 3908000.0,
-          "active_days": 83
+          "score": 3947000,
+          "new_count": 97,
+          "dropped_count": 77,
+          "read_count": 246,
+          "read_growth_total": 3947000.0,
+          "active_days": 84
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 33,
+          "count": 31,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 13,
+          "count": 11,
           "category_count": 1
         },
         {
