@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-06",
-  "prev_date": "2026-10-05",
+  "date": "2026-10-07",
+  "prev_date": "2026-10-06",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,11 +11,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 190000,
+          "score": 198000,
           "new_count": 8,
           "dropped_count": 8,
           "read_count": 21,
-          "read_growth_total": 190000.0,
+          "read_growth_total": 198000.0,
           "active_days": 7
         }
       ],
@@ -34,11 +34,6 @@
           "name": "系统",
           "count": 1,
           "category_count": 1
-        },
-        {
-          "name": "种田",
-          "count": 1,
-          "category_count": 1
         }
       ]
     },
@@ -51,18 +46,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 409000,
+          "score": 408000,
           "new_count": 14,
-          "dropped_count": 13,
+          "dropped_count": 14,
           "read_count": 42,
-          "read_growth_total": 409000.0,
+          "read_growth_total": 408000.0,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 6,
+          "count": 7,
           "category_count": 1
         },
         {
@@ -91,18 +86,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1041000,
-          "new_count": 29,
-          "dropped_count": 29,
+          "score": 1043000,
+          "new_count": 28,
+          "dropped_count": 28,
           "read_count": 90,
-          "read_growth_total": 1041000.0,
+          "read_growth_total": 1043000.0,
           "active_days": 30
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 15,
+          "count": 14,
           "category_count": 1
         },
         {
@@ -112,7 +107,7 @@
         },
         {
           "name": "种田",
-          "count": 4,
+          "count": 3,
           "category_count": 1
         },
         {
@@ -131,12 +126,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 4057000,
-          "new_count": 101,
-          "dropped_count": 81,
-          "read_count": 258,
-          "read_growth_total": 4057000.0,
-          "active_days": 88
+          "score": 4080000,
+          "new_count": 102,
+          "dropped_count": 82,
+          "read_count": 261,
+          "read_growth_total": 4080000.0,
+          "active_days": 89
         }
       ],
       "hot_themes": [
@@ -163,11 +158,6 @@
         {
           "name": "空间",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "星际",
-          "count": 1,
           "category_count": 1
         }
       ]
