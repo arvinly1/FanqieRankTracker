@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-12",
-  "prev_date": "2026-10-11",
+  "date": "2026-10-13",
+  "prev_date": "2026-10-12",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,18 +11,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 184000,
-          "new_count": 8,
-          "dropped_count": 8,
+          "score": 178000,
+          "new_count": 9,
+          "dropped_count": 9,
           "read_count": 21,
-          "read_growth_total": 184000.0,
+          "read_growth_total": 178000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 6,
+          "count": 7,
           "category_count": 1
         },
         {
@@ -32,11 +32,6 @@
         },
         {
           "name": "系统",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "团宠",
           "count": 1,
           "category_count": 1
         }
@@ -51,18 +46,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 389000,
-          "new_count": 18,
+          "score": 373000,
+          "new_count": 17,
           "dropped_count": 17,
           "read_count": 42,
-          "read_growth_total": 389000.0,
+          "read_growth_total": 373000.0,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 11,
+          "count": 12,
           "category_count": 1
         },
         {
@@ -78,11 +73,6 @@
         {
           "name": "星际",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "团宠",
-          "count": 1,
           "category_count": 1
         },
         {
@@ -101,18 +91,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1046000,
+          "score": 1038000,
           "new_count": 30,
-          "dropped_count": 30,
+          "dropped_count": 29,
           "read_count": 90,
-          "read_growth_total": 1046000.0,
+          "read_growth_total": 1038000.0,
           "active_days": 30
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 16,
+          "count": 18,
           "category_count": 1
         },
         {
@@ -131,11 +121,6 @@
           "category_count": 1
         },
         {
-          "name": "团宠",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "种田",
           "count": 1,
           "category_count": 1
@@ -151,18 +136,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 4187000,
-          "new_count": 109,
-          "dropped_count": 89,
-          "read_count": 273,
-          "read_growth_total": 4187000.0,
-          "active_days": 93
+          "score": 4212000,
+          "new_count": 110,
+          "dropped_count": 90,
+          "read_count": 276,
+          "read_growth_total": 4212000.0,
+          "active_days": 94
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 37,
+          "count": 39,
           "category_count": 1
         },
         {
@@ -187,11 +172,6 @@
         },
         {
           "name": "空间",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "团宠",
           "count": 2,
           "category_count": 1
         }
