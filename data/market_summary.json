@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-13",
-  "prev_date": "2026-10-12",
+  "date": "2026-10-14",
+  "prev_date": "2026-10-13",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,28 +11,28 @@
       "hot_types": [
         {
           "name": "",
-          "score": 178000,
-          "new_count": 9,
-          "dropped_count": 9,
+          "score": 184000,
+          "new_count": 11,
+          "dropped_count": 11,
           "read_count": 21,
-          "read_growth_total": 178000.0,
+          "read_growth_total": 184000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 7,
-          "category_count": 1
-        },
-        {
-          "name": "星际",
-          "count": 2,
+          "count": 6,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 1,
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "团宠",
+          "count": 2,
           "category_count": 1
         }
       ]
@@ -46,18 +46,23 @@
       "hot_types": [
         {
           "name": "",
-          "score": 373000,
-          "new_count": 17,
-          "dropped_count": 17,
+          "score": 374000,
+          "new_count": 19,
+          "dropped_count": 19,
           "read_count": 42,
-          "read_growth_total": 373000.0,
+          "read_growth_total": 374000.0,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 12,
+          "count": 11,
+          "category_count": 1
+        },
+        {
+          "name": "系统",
+          "count": 3,
           "category_count": 1
         },
         {
@@ -66,18 +71,8 @@
           "category_count": 1
         },
         {
-          "name": "系统",
+          "name": "团宠",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "星际",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "种田",
-          "count": 1,
           "category_count": 1
         }
       ]
@@ -91,38 +86,33 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1038000,
+          "score": 1035000,
           "new_count": 30,
-          "dropped_count": 29,
+          "dropped_count": 30,
           "read_count": 90,
-          "read_growth_total": 1038000.0,
+          "read_growth_total": 1035000.0,
           "active_days": 30
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 18,
+          "count": 16,
           "category_count": 1
         },
         {
           "name": "重生",
-          "count": 4,
+          "count": 3,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 2,
+          "count": 3,
           "category_count": 1
         },
         {
-          "name": "星际",
+          "name": "团宠",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "种田",
-          "count": 1,
           "category_count": 1
         }
       ]
@@ -136,23 +126,23 @@
       "hot_types": [
         {
           "name": "",
-          "score": 4212000,
-          "new_count": 110,
-          "dropped_count": 90,
-          "read_count": 276,
-          "read_growth_total": 4212000.0,
-          "active_days": 94
+          "score": 4241000,
+          "new_count": 112,
+          "dropped_count": 92,
+          "read_count": 279,
+          "read_growth_total": 4241000.0,
+          "active_days": 95
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 39,
+          "count": 37,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 8,
+          "count": 9,
           "category_count": 1
         },
         {
@@ -161,12 +151,7 @@
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 3,
-          "category_count": 1
-        },
-        {
-          "name": "星际",
+          "name": "团宠",
           "count": 3,
           "category_count": 1
         },
