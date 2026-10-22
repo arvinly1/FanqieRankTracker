@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-21",
-  "prev_date": "2026-10-20",
+  "date": "2026-10-22",
+  "prev_date": "2026-10-21",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,27 +11,27 @@
       "hot_types": [
         {
           "name": "",
-          "score": 224000,
-          "new_count": 8,
-          "dropped_count": 8,
+          "score": 234000,
+          "new_count": 6,
+          "dropped_count": 6,
           "read_count": 21,
-          "read_growth_total": 224000.0,
+          "read_growth_total": 234000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 7,
-          "category_count": 1
-        },
-        {
-          "name": "系统",
-          "count": 2,
+          "count": 5,
           "category_count": 1
         },
         {
           "name": "重生",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "系统",
           "count": 1,
           "category_count": 1
         },
@@ -42,11 +42,6 @@
         },
         {
           "name": "种田",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "星际",
           "count": 1,
           "category_count": 1
         },
@@ -66,11 +61,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 408000,
-          "new_count": 19,
-          "dropped_count": 19,
+          "score": 417000,
+          "new_count": 18,
+          "dropped_count": 18,
           "read_count": 42,
-          "read_growth_total": 408000.0,
+          "read_growth_total": 417000.0,
           "active_days": 14
         }
       ],
@@ -176,12 +171,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 4465000,
+          "score": 4497000,
           "new_count": 120,
           "dropped_count": 100,
-          "read_count": 300,
-          "read_growth_total": 4465000.0,
-          "active_days": 102
+          "read_count": 303,
+          "read_growth_total": 4497000.0,
+          "active_days": 103
         }
       ],
       "hot_themes": [
