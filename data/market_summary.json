@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-31",
-  "prev_date": "2026-10-30",
+  "date": "2026-11-01",
+  "prev_date": "2026-10-31",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,27 +11,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 320000,
+          "score": 272000,
           "new_count": 4,
           "dropped_count": 4,
           "read_count": 21,
-          "read_growth_total": 320000.0,
+          "read_growth_total": 272000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "系统",
           "count": 1,
           "category_count": 1
         }
@@ -46,11 +36,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 571000,
+          "score": 540000,
           "new_count": 11,
           "dropped_count": 11,
           "read_count": 42,
-          "read_growth_total": 571000.0,
+          "read_growth_total": 540000.0,
           "active_days": 14
         }
       ],
@@ -96,27 +86,27 @@
       "hot_types": [
         {
           "name": "",
-          "score": 992000,
-          "new_count": 32,
-          "dropped_count": 32,
+          "score": 988000,
+          "new_count": 33,
+          "dropped_count": 33,
           "read_count": 90,
-          "read_growth_total": 992000.0,
+          "read_growth_total": 988000.0,
           "active_days": 30
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 18,
-          "category_count": 1
-        },
-        {
-          "name": "系统",
-          "count": 5,
+          "count": 17,
           "category_count": 1
         },
         {
           "name": "重生",
+          "count": 4,
+          "category_count": 1
+        },
+        {
+          "name": "系统",
           "count": 4,
           "category_count": 1
         },
@@ -151,12 +141,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 4859000,
-          "new_count": 125,
-          "dropped_count": 105,
-          "read_count": 327,
-          "read_growth_total": 4859000.0,
-          "active_days": 111
+          "score": 4870000,
+          "new_count": 127,
+          "dropped_count": 107,
+          "read_count": 330,
+          "read_growth_total": 4870000.0,
+          "active_days": 112
         }
       ],
       "hot_themes": [
@@ -167,7 +157,7 @@
         },
         {
           "name": "系统",
-          "count": 14,
+          "count": 13,
           "category_count": 1
         },
         {
