@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-05",
-  "prev_date": "2026-11-03",
+  "date": "2026-11-06",
+  "prev_date": "2026-11-05",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,11 +11,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 212000,
+          "score": 234000,
           "new_count": 6,
           "dropped_count": 6,
           "read_count": 21,
-          "read_growth_total": 212000.0,
+          "read_growth_total": 234000.0,
           "active_days": 7
         }
       ],
@@ -36,18 +36,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 539000,
-          "new_count": 11,
-          "dropped_count": 11,
+          "score": 556000,
+          "new_count": 10,
+          "dropped_count": 10,
           "read_count": 42,
-          "read_growth_total": 539000.0,
+          "read_growth_total": 556000.0,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 4,
+          "count": 3,
           "category_count": 1
         },
         {
@@ -71,23 +71,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 997000,
-          "new_count": 31,
-          "dropped_count": 31,
+          "score": 1018000,
+          "new_count": 29,
+          "dropped_count": 29,
           "read_count": 90,
-          "read_growth_total": 997000.0,
+          "read_growth_total": 1018000.0,
           "active_days": 30
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 15,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
-          "count": 4,
+          "count": 13,
           "category_count": 1
         },
         {
@@ -98,6 +93,11 @@
         {
           "name": "星际",
           "count": 3,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
+          "count": 1,
           "category_count": 1
         }
       ]
@@ -111,18 +111,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 4978000,
-          "new_count": 129,
-          "dropped_count": 109,
-          "read_count": 339,
-          "read_growth_total": 4978000.0,
-          "active_days": 115
+          "score": 5021000,
+          "new_count": 130,
+          "dropped_count": 110,
+          "read_count": 342,
+          "read_growth_total": 5021000.0,
+          "active_days": 116
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 45,
+          "count": 44,
           "category_count": 1
         },
         {
