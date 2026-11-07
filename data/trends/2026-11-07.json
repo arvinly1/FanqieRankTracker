@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-07",
+  "prev_date": "2026-11-06",
+  "trends": {
+    "": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "老六下山，六界不安",
+          "change": "+2"
+        },
+        {
+          "title": "凡人仙葫",
+          "change": "+2"
+        },
+        {
+          "title": "洪荒：三清小弟，开局给鸿钧搅局",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "无敌江湖后，我隐退于世",
+          "change": "-4"
+        },
+        {
+          "title": "符道之祖",
+          "change": "-2"
+        },
+        {
+          "title": "长生：仙庭关系户下界摸鱼",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "仙凡分界",
+          "growth": "+7000"
+        },
+        {
+          "title": "从金丹仙族开始的老祖之路！",
+          "growth": "+5000"
+        },
+        {
+          "title": "老六下山，六界不安",
+          "growth": "+5000"
+        }
+      ],
+      "summary": "《老六下山，六界不安》排名上升+2位；《仙凡分界》阅读量+7000。"
+    }
+  }
+}
