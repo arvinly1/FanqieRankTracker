@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-11",
+  "prev_date": "2026-11-09",
+  "trends": {
+    "": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "凡人仙葫",
+          "change": "+3"
+        },
+        {
+          "title": "仙凡分界",
+          "change": "+3"
+        },
+        {
+          "title": "修仙：谁能比我更不择手段！",
+          "change": "+3"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "九霄通天塔",
+          "change": "-8"
+        },
+        {
+          "title": "星路仙踪",
+          "change": "-3"
+        },
+        {
+          "title": "家有仙妻不对劲，她也是穿越者！",
+          "change": "-3"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "凡人仙葫",
+          "growth": "+1.9万"
+        },
+        {
+          "title": "老六下山，六界不安",
+          "growth": "+1.5万"
+        },
+        {
+          "title": "修仙：谁能比我更不择手段！",
+          "growth": "+1.3万"
+        }
+      ],
+      "summary": "《凡人仙葫》排名上升+3位；《凡人仙葫》阅读量+1.9万。"
+    }
+  }
+}
