@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-12",
-  "prev_date": "2026-11-11",
+  "date": "2026-11-13",
+  "prev_date": "2026-11-12",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,11 +11,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 439000,
+          "score": 440000,
           "new_count": 6,
           "dropped_count": 6,
           "read_count": 21,
-          "read_growth_total": 439000.0,
+          "read_growth_total": 440000.0,
           "active_days": 7
         }
       ],
@@ -41,11 +41,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 656000,
-          "new_count": 10,
-          "dropped_count": 10,
+          "score": 622000,
+          "new_count": 11,
+          "dropped_count": 11,
           "read_count": 42,
-          "read_growth_total": 656000.0,
+          "read_growth_total": 622000.0,
           "active_days": 14
         }
       ],
@@ -71,18 +71,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1233000,
-          "new_count": 30,
-          "dropped_count": 30,
+          "score": 1204000,
+          "new_count": 29,
+          "dropped_count": 29,
           "read_count": 90,
-          "read_growth_total": 1233000.0,
+          "read_growth_total": 1204000.0,
           "active_days": 30
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 14,
+          "count": 13,
           "category_count": 1
         },
         {
@@ -92,7 +92,7 @@
         },
         {
           "name": "星际",
-          "count": 3,
+          "count": 2,
           "category_count": 1
         },
         {
@@ -111,12 +111,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 5338000,
-          "new_count": 133,
-          "dropped_count": 113,
-          "read_count": 354,
-          "read_growth_total": 5338000.0,
-          "active_days": 120
+          "score": 5362000,
+          "new_count": 134,
+          "dropped_count": 114,
+          "read_count": 357,
+          "read_growth_total": 5362000.0,
+          "active_days": 121
         }
       ],
       "hot_themes": [
@@ -127,7 +127,7 @@
         },
         {
           "name": "系统",
-          "count": 15,
+          "count": 13,
           "category_count": 1
         },
         {
