@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-14",
+  "prev_date": "2026-11-13",
+  "trends": {
+    "": {
+      "new_count": 0,
+      "dropped_count": 0,
+      "new_books": [],
+      "dropped_books": [],
+      "top_risers": [
+        {
+          "title": "刚出江湖，被清冷仙子养成了",
+          "change": "+2"
+        },
+        {
+          "title": "从金丹仙族开始的老祖之路！",
+          "change": "+1"
+        },
+        {
+          "title": "凡人仙葫",
+          "change": "+1"
+        }
+      ],
+      "top_fallers": [
+        {
+          "title": "刚进宗门，绝美师尊彻底沦陷了！",
+          "change": "-2"
+        },
+        {
+          "title": "聚宝仙盆",
+          "change": "-1"
+        },
+        {
+          "title": "问鼎仙途",
+          "change": "-1"
+        }
+      ],
+      "reads_growth": [
+        {
+          "title": "从金丹仙族开始的老祖之路！",
+          "growth": "+1.2万"
+        },
+        {
+          "title": "刚出江湖，被清冷仙子养成了",
+          "growth": "+1.1万"
+        },
+        {
+          "title": "凡人仙葫",
+          "growth": "+5000"
+        }
+      ],
+      "summary": "《刚出江湖，被清冷仙子养成了》排名上升+2位；《从金丹仙族开始的老祖之路！》阅读量+1.2万。"
+    }
+  }
+}
