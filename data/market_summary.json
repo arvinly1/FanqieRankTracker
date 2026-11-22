@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-21",
-  "prev_date": "2026-11-20",
+  "date": "2026-11-22",
+  "prev_date": "2026-11-21",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,18 +11,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 167000,
+          "score": 177000,
           "new_count": 7,
           "dropped_count": 7,
           "read_count": 21,
-          "read_growth_total": 167000.0,
+          "read_growth_total": 177000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 4,
+          "count": 3,
           "category_count": 1
         },
         {
@@ -41,11 +41,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 579000,
+          "score": 567000,
           "new_count": 12,
           "dropped_count": 12,
           "read_count": 42,
-          "read_growth_total": 579000.0,
+          "read_growth_total": 567000.0,
           "active_days": 14
         }
       ],
@@ -71,18 +71,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1189000,
+          "score": 1187000,
           "new_count": 25,
           "dropped_count": 25,
           "read_count": 90,
-          "read_growth_total": 1189000.0,
+          "read_growth_total": 1187000.0,
           "active_days": 30
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 11,
+          "count": 10,
           "category_count": 1
         },
         {
@@ -101,12 +101,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 5557000,
-          "new_count": 141,
-          "dropped_count": 121,
-          "read_count": 381,
-          "read_growth_total": 5557000.0,
-          "active_days": 129
+          "score": 5588000,
+          "new_count": 142,
+          "dropped_count": 122,
+          "read_count": 384,
+          "read_growth_total": 5588000.0,
+          "active_days": 130
         }
       ],
       "hot_themes": [
