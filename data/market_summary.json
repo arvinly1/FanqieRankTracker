@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-26",
-  "prev_date": "2026-11-25",
+  "date": "2026-11-27",
+  "prev_date": "2026-11-26",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,18 +11,23 @@
       "hot_types": [
         {
           "name": "",
-          "score": 271000,
+          "score": 328000,
           "new_count": 8,
           "dropped_count": 8,
           "read_count": 21,
-          "read_growth_total": 271000.0,
+          "read_growth_total": 328000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 4,
+          "count": 3,
+          "category_count": 1
+        },
+        {
+          "name": "炮灰",
+          "count": 1,
           "category_count": 1
         }
       ]
@@ -36,11 +41,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 432000,
+          "score": 499000,
           "new_count": 14,
           "dropped_count": 14,
           "read_count": 42,
-          "read_growth_total": 432000.0,
+          "read_growth_total": 499000.0,
           "active_days": 14
         }
       ],
@@ -51,7 +56,7 @@
           "category_count": 1
         },
         {
-          "name": "系统",
+          "name": "炮灰",
           "count": 1,
           "category_count": 1
         }
@@ -66,23 +71,28 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1231000,
-          "new_count": 26,
-          "dropped_count": 26,
+          "score": 1263000,
+          "new_count": 25,
+          "dropped_count": 25,
           "read_count": 90,
-          "read_growth_total": 1231000.0,
+          "read_growth_total": 1263000.0,
           "active_days": 30
         }
       ],
       "hot_themes": [
         {
           "name": "修仙",
-          "count": 11,
+          "count": 10,
           "category_count": 1
         },
         {
           "name": "系统",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "炮灰",
+          "count": 1,
           "category_count": 1
         }
       ]
@@ -96,12 +106,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 5770000,
-          "new_count": 147,
-          "dropped_count": 127,
-          "read_count": 396,
-          "read_growth_total": 5770000.0,
-          "active_days": 134
+          "score": 5861000,
+          "new_count": 148,
+          "dropped_count": 128,
+          "read_count": 399,
+          "read_growth_total": 5861000.0,
+          "active_days": 135
         }
       ],
       "hot_themes": [
@@ -123,6 +133,11 @@
         {
           "name": "空间",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "炮灰",
+          "count": 1,
           "category_count": 1
         }
       ]
